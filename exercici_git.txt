@@ -2,3 +2,4 @@ Exercici de git
 
 Modificacions des de master
 
+Modificació del document des de la branca branch1
