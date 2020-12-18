@@ -1,1 +1,3 @@
 Exercici de git
+
+Modificació del document des de la branca branch1
