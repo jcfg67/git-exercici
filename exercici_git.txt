@@ -1,1 +1,4 @@
 Exercici de git
+
+Modificacions des de master
+
